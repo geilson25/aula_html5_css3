@@ -1,0 +1,43 @@
+body {
+	background: black;
+	color: white;
+	margin: 0px 400px;
+	text-align: center;
+}
+
+header {
+	margin-top: 200px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: fantasy;
+	color: gray;
+}
+
+
+p {
+	font-size: 18px;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+	border-radius: 80px;
+	margin-bottom: 20px;
+}
+
+#slim {
+	width: 30px;
+	height: 30px;
+	border-radius: 17px;
+	margin-bottom: 20px;
+	float: left;	
+}
+
+#right {
+	float: right;
+}
+
+#left {
+	float: left;
+}
